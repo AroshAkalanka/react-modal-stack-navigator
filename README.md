@@ -185,6 +185,9 @@ Apart from the `screens` prop, the `<StackNavigator />` component also accepts a
 See the `react-modal-stack-navigator` in action by checking out our [examples directory](https://github.com/AroshAkalanka/react-modal-stack-navigator/tree/main/example). Run the example locally to see the component's functionality. 🚀
 
 
+##
+*The API design draws inspiration from React Native's React Navigation library*, offering a familiar and intuitive experience for developers familiar with mobile app navigation patterns.
+
 ## License
 
 MIT © [AroshAkalanka](https://github.com/AroshAkalanka)
