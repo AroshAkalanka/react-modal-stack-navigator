@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-unicode-property-regex": "^7.18.6",
