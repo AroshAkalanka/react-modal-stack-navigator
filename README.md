@@ -1,13 +1,19 @@
 # react-modal-stack-navigator
 
-> react-modal-stack-navigator component
+> A Lightweight and Flexible Modal Stack Navigator for React 👩🏻‍💻🚀
 
 [![NPM](https://img.shields.io/npm/v/react-modal-stack-navigator.svg)](https://www.npmjs.com/package/react-modal-stack-navigator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
+The *react-modal-stack-navigator* is a lightweight and easy-to-use component that helps you integrate a simple stack navigation system into your modal components.
+
+Import the *StackNavigator* component into your app and seamlessly integrate stack navigation, providing you with the flexibility to utilize *any* of your favorite modal components. and no need to worry about matching styles & themes.
+
 
 ## Install
 
 ```bash
-npm install --save react-modal-stack-navigator
+npm install react-modal-stack-navigator
 ```
 
 or
@@ -20,7 +26,9 @@ yarn add react-modal-stack-navigator
 
 ### Setup
 
-Import the `StackNavigator` component in your app. and wrap it inside your favorite modal component. StackNavigator will provide the navigation capabilities and take care of rendering the screens.
+Import the `StackNavigator` component in your app. and wrap it inside your favorite modal component.
+
+StackNavigator will provide the navigation capabilities and take care of rendering the screens. 
 
 ```tsx
 import React from 'react'
