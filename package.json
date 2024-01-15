@@ -1,7 +1,7 @@
 {
   "name": "react-modal-stack-navigator",
-  "version": "1.0.2",
-  "description": "react-modal-stack-navigator component",
+  "version": "1.0.3",
+  "description": "A Lightweight and Flexible Modal Stack Navigator for React 👩🏻‍💻🚀",
   "author": "AroshAkalanka",
   "license": "MIT",
   "repository": "AroshAkalanka/react-modal-stack-navigator",
@@ -60,5 +60,18 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react-modal",
+    "react-navigator",
+    "react-modal-stack",
+    "react-modal-navigator",
+    "react-stack-navigator",
+    "react-modal-navigation",
+    "react-modal-stack-navigator",
+    "react",
+    "modal",
+    "stack",
+    "navigator"
   ]
 }
