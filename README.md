@@ -173,7 +173,7 @@ Apart from the `screens` prop, the `<StackNavigator />` component also accepts a
 
 ## Example
 
-See the `react-modal-stack-navigator` in action by checking out our [examples directory](https://github.com/AroshAkalanka/react-modal-stack-navigator/tree/main/example). Run the example locally to see the component's functionality. 🚀
+See the `react-modal-stack-navigator` in action by checking out our [examples directory](https://github.com/AroshAkalanka/react-modal-stack-navigator/tree/main/apps/example). Run the example locally to see the component's functionality. 🚀
 
 ##
 
