@@ -18,6 +18,9 @@
     "lint": "eslint \"src/**/*.ts*\"",
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
+  "dependencies": {
+    "framer-motion": "^11.2.6"
+  },
   "devDependencies": {
     "@repo/tsconfig": "workspace:*",
     "@types/react": "^18.2.61",
@@ -30,7 +33,17 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "framer-motion": "^11.2.6"
-  }
+  "keywords": [
+    "react-modal",
+    "react-navigator",
+    "react-modal-stack",
+    "react-modal-navigator",
+    "react-stack-navigator",
+    "react-modal-navigation",
+    "react-modal-stack-navigator",
+    "react",
+    "modal",
+    "stack",
+    "navigator"
+  ]
 }
