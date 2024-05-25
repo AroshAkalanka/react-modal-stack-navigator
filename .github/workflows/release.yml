@@ -28,6 +28,10 @@ jobs:
       - name: Install Dependencies
         run: pnpm i
 
+      - name: Copy Root README to Package Directories
+        run: |
+          cp ../README.md packages/core/README.md
+
       - name: Create Release Pull Request or Publish to npm
         id: changesets
         uses: changesets/action@v1
