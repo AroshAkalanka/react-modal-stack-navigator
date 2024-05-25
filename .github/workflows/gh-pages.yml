@@ -1,9 +1,9 @@
-name: Build and Deploy demo app to GitHub Pages
+name: Deploy Example App
 
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 permissions:
   contents: write
@@ -37,4 +37,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: apps/example/out
+          folder: apps/example/build
