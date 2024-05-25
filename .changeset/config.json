@@ -6,6 +6,6 @@
   "linked": [],
   "access": "public",
   "updateInternalDependencies": "patch",
-  "ignore": ["@repo/demo", "@repo/tsconfig"],
+  "ignore": ["@repo/demo"],
   "baseBranch": "main"
 }
