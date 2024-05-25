@@ -1,5 +1,4 @@
 import { FC, ReactNode } from "react";
-
 import css from "./styles.module.css";
 
 interface ModalProps {
@@ -7,7 +6,8 @@ interface ModalProps {
   children: ReactNode;
 }
 
-const Modal: FC<ModalProps> = ({ children }) => {
+const Modal: FC<ModalProps> = ({ children, open }) => {
+  if (!open) return null;
   return (
     <div className={css.modal}>
       <div className={css.modalContent}>

@@ -26,7 +26,11 @@ const ProfileScreen = ({
   return (
     <div className={css.container}>
       <div className={css.header}>
-        <button className={css.backButton} onClick={handleGoBack}>
+        <button
+          onClick={handleGoBack}
+          className={css.backButton}
+          disabled={!navigation.canGoBack()}
+        >
           👈🏻
         </button>
         Back

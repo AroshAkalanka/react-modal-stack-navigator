@@ -13,7 +13,7 @@ const screens = [
 export default function Page() {
   return (
     <main>
-      <h1>React Modal Stack Navigator</h1>
+      <h1 style={{ textAlign: "center" }}>React Modal Stack Navigator</h1>
 
       <UseYourFavoriteModal open={true}>
         <StackNavigator screens={screens} />

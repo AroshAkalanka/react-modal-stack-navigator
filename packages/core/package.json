@@ -29,5 +29,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "framer-motion": "^11.2.6"
   }
 }
