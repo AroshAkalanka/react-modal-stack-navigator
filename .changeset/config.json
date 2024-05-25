@@ -6,5 +6,6 @@
   "linked": [],
   "access": "public",
   "updateInternalDependencies": "patch",
-  "ignore": ["@repo/demo"]
+  "ignore": ["@repo/demo"],
+  "baseBranch": "main"
 }
