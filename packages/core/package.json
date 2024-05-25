@@ -1,6 +1,9 @@
 {
-  "name": "@acme/core",
-  "version": "0.0.0",
+  "name": "react-modal-stack-navigator",
+  "version": "1.0.3",
+  "description": "A Lightweight and Flexible Modal Stack Navigator for React 👩🏻‍💻🚀",
+  "author": "AroshAkalanka",
+  "repository": "AroshAkalanka/react-modal-stack-navigator",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -16,11 +19,10 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@acme/tsconfig": "workspace:*",
+    "@repo/tsconfig": "workspace:*",
     "@types/react": "^18.2.61",
     "@types/react-dom": "^18.2.19",
     "eslint": "^8.57.0",
-    "@acme/eslint-config": "workspace:*",
     "react": "^18.2.0",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
