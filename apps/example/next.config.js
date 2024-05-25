@@ -1,4 +1,7 @@
 module.exports = {
-  basePath: "/react-modal-stack-navigator",
   reactStrictMode: true,
+  basePath: "/react-modal-stack-navigator",
+  images: {
+    unoptimized: true,
+  },
 };
