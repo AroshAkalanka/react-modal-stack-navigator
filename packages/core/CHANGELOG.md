@@ -1,5 +1,13 @@
 # react-modal-stack-navigator
 
+## 1.1.1
+
+### Patch Changes
+
+- 1de6e66: adding documentation readme file
+  deploying example app in gh-pages
+  add npm package keywords
+
 ## 1.1.0
 
 ### Minor Changes
