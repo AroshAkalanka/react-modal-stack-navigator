@@ -3,7 +3,7 @@ name: Deploy Example App
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 permissions:
   contents: write
