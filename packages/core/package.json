@@ -4,6 +4,7 @@
   "description": "A Lightweight and Flexible Modal Stack Navigator for React 👩🏻‍💻🚀",
   "author": "AroshAkalanka",
   "repository": "AroshAkalanka/react-modal-stack-navigator",
+  "homepage": "https://aroshakalanka.github.io/react-modal-stack-navigator",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
