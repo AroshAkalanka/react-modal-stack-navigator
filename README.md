@@ -3,6 +3,7 @@
 > A Lightweight and Flexible Modal Stack Navigator for React 👩🏻‍💻🚀
 
 [![NPM](https://img.shields.io/npm/v/react-modal-stack-navigator.svg)](https://www.npmjs.com/package/react-modal-stack-navigator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Release](https://github.com/AroshAkalanka/react-modal-stack-navigator/actions/workflows/release.yml/badge.svg)](https://github.com/AroshAkalanka/react-modal-stack-navigator/actions/workflows/release.yml)
 
 The _react-modal-stack-navigator_ is a lightweight and easy-to-use component that helps you integrate a simple stack navigation system into your modal components.
 
