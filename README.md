@@ -29,29 +29,28 @@ Import the `StackNavigator` component in your app. and wrap it inside your favor
 StackNavigator will provide the navigation capabilities and take care of rendering the screens.
 
 ```tsx
-import React from "react";
 import StackNavigator from "react-modal-stack-navigator";
 
-import UseYourFavoriteModal from "./components/Modal";
-import HomeScreen from "./components/Screens/HomeScreen";
-import ProfileScreen from "./components/Screens/ProfileScreen";
+import UseYourFavoriteModal from "@components/modal";
+import HomeScreen from "@components/screens/home";
+import ProfileScreen from "@components/screens/profile";
 
 const screens = [
   { name: "Home", component: HomeScreen },
   { name: "Profile", component: ProfileScreen },
 ];
 
-const App = () => {
+export default function Page() {
   return (
-    <div>
+    <main>
+      <h1>React Modal Stack Navigator</h1>
+
       <UseYourFavoriteModal open={true}>
         <StackNavigator screens={screens} />
       </UseYourFavoriteModal>
-    </div>
+    </main>
   );
-};
-
-export default App;
+}
 ```
 
 You can provide all your screens to the StackNavigator via the `screens Prop`.
