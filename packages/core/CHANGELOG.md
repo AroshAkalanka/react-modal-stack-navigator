@@ -1,5 +1,13 @@
 # react-modal-stack-navigator
 
+## 1.1.2
+
+### Patch Changes
+
+- 6b2d3f9: Update package License
+  documentation improvements
+  minor changes
+
 ## 1.1.1
 
 ### Patch Changes
