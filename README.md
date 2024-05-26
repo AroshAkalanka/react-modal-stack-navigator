@@ -21,6 +21,12 @@ or
 yarn add react-modal-stack-navigator
 ```
 
+## Live Demo
+
+![live-demo-preview-gif](https://github.com/AroshAkalanka/react-modal-stack-navigator/assets/70355130/04a56287-cb80-4128-a75d-ecd53e8d6a8f)
+
+[https://aroshakalanka.github.io/react-modal-stack-navigator](https://aroshakalanka.github.io/react-modal-stack-navigator)
+
 ## Usage
 
 ### Setup
