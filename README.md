@@ -14,12 +14,16 @@ Import the _StackNavigator_ component into your app and seamlessly integrate sta
 ```bash
 npm install react-modal-stack-navigator
 ```
-
 or
-
 ```bash
 yarn add react-modal-stack-navigator
 ```
+
+## Live Demo
+
+![Recording2024-05-26150522-ezgif com-video-to-gif-converter](https://github.com/AroshAkalanka/react-modal-stack-navigator/assets/70355130/04a56287-cb80-4128-a75d-ecd53e8d6a8f)
+
+[https://aroshakalanka.github.io/react-modal-stack-navigator](https://aroshakalanka.github.io/react-modal-stack-navigator)
 
 ## Usage
 
